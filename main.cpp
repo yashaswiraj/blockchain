@@ -2,8 +2,6 @@
 //  main.cpp
 //  e-Voting_using_blockchain-Project
 //
-//  Created by Jay Bansal on 25/06/18.
-//  Copyright © 2018 Jay Bansal. All rights reserved.
 //
 
 #include "e-Voting_Key_Generation_final.hpp"
