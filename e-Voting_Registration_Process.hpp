@@ -2,8 +2,7 @@
 //  e-Voting_Registration_Process.hpp
 //  e-Voting_using_blockchain-Project
 //
-//  Created by Jay Bansal on 18/06/18.
-//  Copyright © 2018 Jay Bansal. All rights reserved.
+
 //
 
 #ifndef e_Voting_Registration_Process_hpp
